@@ -1,16 +1,13 @@
 # Hi there, I'm xlje! 👋
 
-Welcome to my GitHub profile! I'm **xlje**, an intermediate **Python** developer from **Poland** 🇵🇱 with a passion for cyber security and coding.
+Welcome to my GitHub profile! I'm **xlje**, an intermediate **Python** developer from **Poland** with a passion for cyber security and coding.
 
 ---
 
 ## About Me ❓
 
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Location**: Poland 🇵🇱
-- **Interests**: 
-  - **Cyber Security** 🔒
-  - **Coding** 💻
+- **Location**: ![Poland](https://en.wikipedia.org/wiki/Poland)
 ---
 
 ## GitHub Stats 📊
