@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **xlje**, an intermediate **Python** developer
 ## About Me ❓
 
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Location**: ![Poland](https://en.wikipedia.org/wiki/Poland)
+- **Location**: **Poland** 🌎
 ---
 
 ## GitHub Stats 📊
