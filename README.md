@@ -1,7 +1,7 @@
 ## About Me ❓
 Hello im **xlje** im an intermediate **Python** developer 👾
 -  **Languages**: Python 🐍
--  **Nationality**: Poland 🇵🇱
+-  **Nationality**: Poland 🌎
 -  **Interested In**: Cyber Security, Coding 🔒
 ## My Projects 🎨
 - **MEE666** - R.A.T Controled With **Discord** 🌊
